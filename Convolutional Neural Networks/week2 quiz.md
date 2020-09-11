@@ -1,3 +1,4 @@
+Fuckin dumbass giving wrong answers
 ## Week 2 quiz - Deep convolutional models
 
 1. Which of the following do you typically see as you move to deeper layers in a ConvNet?
